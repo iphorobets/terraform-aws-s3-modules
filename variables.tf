@@ -1,3 +1,3 @@
-variable "s3_bucket_nameeeee" {
+variable "s3_bucket_name" {
   type = string
 }
